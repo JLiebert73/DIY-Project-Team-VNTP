@@ -9,3 +9,6 @@ Prathamesh Belavagi
 
 Link to Tinkercad circuit:
 https://www.tinkercad.com/things/0UE3gPRXp6t?sharecode=KlCD5Njlx41E7-lW_uif061EHfvwmD77BbOY_5Id13U
+
+Link to Youtube video:
+https://www.youtube.com/watch?v=d0IoqPvTSDc
