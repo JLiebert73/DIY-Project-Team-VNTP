@@ -1,6 +1,7 @@
 # DIY-Project-Team-VNTP
 
-_Collaborators_:\
+**Collaborators**:\
+\
 Vedic Dutta\
 Nikhil Atram\
 Tanya Kumari\
