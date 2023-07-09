@@ -1,10 +1,10 @@
 # DIY-Project-Team-VNTP
 
-Collaborators:
-\Vedic Dutta
-\Nikhil Atram
-\Tanya Kumari
-\Prathamesh Belavagi
+Collaborators:\
+Vedic Dutta\
+Nikhil Atram\
+Tanya Kumari\
+Prathamesh Belavagi
 
 
 Link to Tinkercad circuit:
